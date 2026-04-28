@@ -120,3 +120,10 @@ The project generates :-
 - Monthly sales trends
 
 
+## Future Improvements
+
+- Add interactive dashboards (e.g., Plotly / Power BI)
+- Perform predictive analysis (sales forecasting)
+- Deploy as a web app using Flask/Streamlit
+- Include more advanced KPIs
+
