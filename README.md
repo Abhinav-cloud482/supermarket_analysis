@@ -127,3 +127,7 @@ The project generates :-
 - Deploy as a web app using Flask/Streamlit
 - Include more advanced KPIs
 
+
+## License
+
+This project is open-source and free to use for learning purposes.
