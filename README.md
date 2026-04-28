@@ -129,5 +129,10 @@ The project generates :-
 
 
 ## License
+This project is licensed under the MIT License.
 
-This project is open-source and free to use for learning purposes.
+## Author
+
+Abhinav Dixit
+
+Python Developer | Data & ML Enthusiast
